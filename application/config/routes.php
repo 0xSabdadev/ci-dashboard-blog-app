@@ -57,3 +57,4 @@ $route['about'] = 'contoh/about';
 $route['contact'] = 'contoh/contact';
 $route['_utility'] = 'contoh/_utility';
 $route['article/(:any)'] = 'article/show/$1';
+$route['admin'] = 'admin/dashboard';
